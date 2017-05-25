@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<ArrayOfTreeItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TreeItem>
+    <Number>1</Number>
+    <QuestionItem>Как получить sin из основного тригонометрического тождества?
+</QuestionItem>
+    <Input>cos</Input>
+    <Output>sin</Output>
+    <MultiExpr>false</MultiExpr>
+    <ExChild>5</ExChild>
+    <SatChild>3</SatChild>
+    <UnsatChild>2</UnsatChild>
+    <GoodChild>4</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>2</Number>
+    <QuestionItem> Ваша оценка - 2</QuestionItem>
+    <Input />
+    <Output />
+    <MultiExpr>false</MultiExpr>
+    <ExChild>0</ExChild>
+    <SatChild>0</SatChild>
+    <UnsatChild>0</UnsatChild>
+    <GoodChild>0</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnsatisfactory</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>3</Number>
+    <QuestionItem>Чему равен синус двойного угла?
+</QuestionItem>
+    <Input>cos;sin</Input>
+    <Output>sin2</Output>
+    <MultiExpr>false</MultiExpr>
+    <ExChild>9</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>2</UnsatChild>
+    <GoodChild>11</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>7</Number>
+    <QuestionItem>Чему равен котангенс двойного угла?
+</QuestionItem>
+    <Input>ctg;tg</Input>
+    <Output>ctg2</Output>
+    <MultiExpr>false</MultiExpr>
+    <ExChild>15</ExChild>
+    <SatChild>16</SatChild>
+    <UnsatChild>13</UnsatChild>
+    <GoodChild>14</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>9</Number>
+    <QuestionItem>Как получить синус двойного угла, зная косинус двойного угла?
+</QuestionItem>
+    <Input>cos2</Input>
+    <Output>sin2</Output>
+    <MultiExpr>true</MultiExpr>
+    <ExChild>15</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>2</UnsatChild>
+    <GoodChild>14</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>12</Number>
+    <QuestionItem>Как получить котангенс двойного угла, зная косинус двойного угла? (И пусть тангенс будет промежуточным шагом вычислений)
+
+</QuestionItem>
+    <Input>cos2</Input>
+    <Output>ctg2</Output>
+    <MultiExpr>true</MultiExpr>
+    <ExChild>15</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>6</UnsatChild>
+    <GoodChild>15</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>13</Number>
+    <QuestionItem> Ваша оценка - 3</QuestionItem>
+    <Input />
+    <Output />
+    <MultiExpr>false</MultiExpr>
+    <ExChild>0</ExChild>
+    <SatChild>0</SatChild>
+    <UnsatChild>0</UnsatChild>
+    <GoodChild>0</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eSatisfactory</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>14</Number>
+    <QuestionItem> Ваша оценка - 4</QuestionItem>
+    <Input />
+    <Output />
+    <MultiExpr>false</MultiExpr>
+    <ExChild>0</ExChild>
+    <SatChild>0</SatChild>
+    <UnsatChild>0</UnsatChild>
+    <GoodChild>0</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eGood</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>15</Number>
+    <QuestionItem> Ваша оценка - 5</QuestionItem>
+    <Input />
+    <Output />
+    <MultiExpr>false</MultiExpr>
+    <ExChild>0</ExChild>
+    <SatChild>0</SatChild>
+    <UnsatChild>0</UnsatChild>
+    <GoodChild>0</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eExcellent</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>16</Number>
+    <QuestionItem>Чему равен синус двойного угла?
+</QuestionItem>
+    <Input>cos;sin</Input>
+    <Output>sin2</Output>
+    <MultiExpr>false</MultiExpr>
+    <ExChild>15</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>13</UnsatChild>
+    <GoodChild>15</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>17</Number>
+    <QuestionItem>Как получить котангенс двойного угла, зная косинус двойного угла? (И пусть тангенс будет промежуточным шагом вычислений)
+
+</QuestionItem>
+    <Input>cos2</Input>
+    <Output>ctg2</Output>
+    <MultiExpr>true</MultiExpr>
+    <ExChild>15</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>13</UnsatChild>
+    <GoodChild>14</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>4</Number>
+    <QuestionItem>Как получить тангенс двойного угла из ctg?</QuestionItem>
+    <Input>ctg</Input>
+    <Output>tg2</Output>
+    <MultiExpr>true</MultiExpr>
+    <ExChild>12</ExChild>
+    <SatChild>12</SatChild>
+    <UnsatChild>13</UnsatChild>
+    <GoodChild>12</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>6</Number>
+    <QuestionItem>Как получить cos, зная косиснус двойного угла?
+</QuestionItem>
+    <Input>cos2</Input>
+    <Output>cos</Output>
+    <MultiExpr>true</MultiExpr>
+    <ExChild>15</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>13</UnsatChild>
+    <GoodChild>15</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>8</Number>
+    <QuestionItem>Как получить cos, зная синус и синус двойного угла?
+</QuestionItem>
+    <Input>cos</Input>
+    <Output>sin;sin2</Output>
+    <MultiExpr>true</MultiExpr>
+    <ExChild>10</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>2</UnsatChild>
+    <GoodChild>10</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>10</Number>
+    <QuestionItem>Чему равен тангенс двойного угла?
+</QuestionItem>
+    <Input>tg</Input>
+    <Output>tg2</Output>
+    <MultiExpr>false</MultiExpr>
+    <ExChild>14</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>13</UnsatChild>
+    <GoodChild>14</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>11</Number>
+    <QuestionItem>Как получить косинус двойного угла, зная cos?
+
+</QuestionItem>
+    <Input>cos;sin</Input>
+    <Output>cos2</Output>
+    <MultiExpr>false</MultiExpr>
+    <ExChild>14</ExChild>
+    <SatChild>13</SatChild>
+    <UnsatChild>2</UnsatChild>
+    <GoodChild>14</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+  <TreeItem>
+    <Number>5</Number>
+    <QuestionItem>Чему равен тангенс двойного угла?
+</QuestionItem>
+    <Input>tg</Input>
+    <Output>tg2</Output>
+    <MultiExpr>false</MultiExpr>
+    <ExChild>12</ExChild>
+    <SatChild>8</SatChild>
+    <UnsatChild>13</UnsatChild>
+    <GoodChild>7</GoodChild>
+    <NextChild>0</NextChild>
+    <Mark>eUnknown</Mark>
+  </TreeItem>
+</ArrayOfTreeItem>
