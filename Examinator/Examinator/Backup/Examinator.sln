@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examinator", "Examinator.csproj", "{CC8EBF45-51AE-467F-B50C-81ADA8C46E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CC8EBF45-51AE-467F-B50C-81ADA8C46E90}.Debug.ActiveCfg = Debug|.NET
+		{CC8EBF45-51AE-467F-B50C-81ADA8C46E90}.Debug.Build.0 = Debug|.NET
+		{CC8EBF45-51AE-467F-B50C-81ADA8C46E90}.Release.ActiveCfg = Release|.NET
+		{CC8EBF45-51AE-467F-B50C-81ADA8C46E90}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
