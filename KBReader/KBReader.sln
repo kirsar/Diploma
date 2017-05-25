@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBReader", "KBReader.csproj", "{689C38DF-D891-4F2B-87BD-0C9D199E6923}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{689C38DF-D891-4F2B-87BD-0C9D199E6923}.Debug.ActiveCfg = Debug|.NET
+		{689C38DF-D891-4F2B-87BD-0C9D199E6923}.Debug.Build.0 = Debug|.NET
+		{689C38DF-D891-4F2B-87BD-0C9D199E6923}.Release.ActiveCfg = Release|.NET
+		{689C38DF-D891-4F2B-87BD-0C9D199E6923}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
