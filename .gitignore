@@ -3,3 +3,7 @@
 ################################################################################
 
 *.suo
+/KBCreator/bin/Debug
+/KBCreator/obj/Debug
+/KBReader/obj/Debug
+/KBReader/bin/Debug
